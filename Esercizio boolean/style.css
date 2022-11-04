@@ -1,0 +1,52 @@
+body{
+  background-image:url(background.jpg);
+  background-size: cover;
+}
+
+.info{
+  width: 50%;
+  margin:auto ;
+}
+
+.container{
+  margin: 100px;
+  padding: 100px;
+  background-color: rgba(0, 0, 0, .5);
+  color: white;
+  border-radius: 5%;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+h1{
+  text-align: center;
+  color: #11f211;
+}
+
+.Tasti{
+  text-align: center;
+  background-color: #11f211;
+  padding: 10px;
+}
+
+.info1{
+  margin-top: 20px;
+}
+
+h2{
+  display: inline-block;
+}
+
+.arrow {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
